@@ -1,0 +1,33 @@
+body {
+  background: url("imagens/fundo2.png");
+}
+
+#principal {
+  width: 900px;
+  background: white;
+}
+
+#logo {
+  margin: 20px;
+  position: relative;
+  top: -5.5px;
+  left: 193px;
+}
+
+.links {
+  display: inline-block;
+  position: relative;
+  bottom: 45px;
+  left: 665px;
+}
+
+.centralizar {
+  position: relative;
+  bottom: 5px;
+  left: 216px;
+}
+#direitos {
+  padding-bottom: 40px;
+  position: absolute;
+  left: 550px;
+}
